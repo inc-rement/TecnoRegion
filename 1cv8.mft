@@ -1,0 +1,8 @@
+﻿Vendor=ИП Вергун
+Name=БазаТехноРегион
+Version=0.0.19.2
+AppVersion=8.3
+[Config1]
+Catalog=1С:ТехноРегион
+Destination=1C\ТехноРегион
+Source=1Cv8.dt
